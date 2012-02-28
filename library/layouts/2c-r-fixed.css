@@ -10,32 +10,32 @@ body {
     position:relative;
 }
 #branding {
-    width:1040px;
+    width:1240px;
     margin:0 auto;
 }
 #access {
-    width:1040px;
+    width:1240px;
     margin:0 auto;
     position:relative;
     overflow:hidden;
 }
 .menu {
-    width:1040px;
+    width:1240px;
     margin:150 auto;
 }
 #main {
-    width:1060px;
+    width:1260px;
     margin:0 auto;
     overflow:hidden;
     position:relative;
 }
 #container {
-    width:720px;
+    width:920px;
     float:left;
 }
 #content {
     margin:0 0 0 10px;
-    width:690px;
+    width:890px;
     overflow:hidden;
 }
 .main-aside {
@@ -51,7 +51,7 @@ body {
     clear:both;
 }
 #subsidiary {
-    width:940px;
+    width:1140px;
     margin:0 auto;
     overflow:hidden;
 }
@@ -65,7 +65,7 @@ body {
 }
 #siteinfo {
     clear:both;
-    width:940px;
+    width:1140px;
     margin:0 auto;
 }
 
@@ -78,14 +78,14 @@ body {
 
 .page-template-template-page-fullwidth-php #container {
 	margin:0;
-	width:940px;
+	width:1140px;
 }
 
 .page-template-template-page-fullwidth-php #content {
 	margin: 0 0 0 10px;
-	width:940px;
+	width:1140px;
 }
 
 .page-template-template-page-fullwidth-php #comments {
-    width:540px;
+    width:740px;
 }
