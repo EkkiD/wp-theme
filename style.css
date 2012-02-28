@@ -1,0 +1,18 @@
+/*
+THEME NAME: MyTheme
+THEME URI: 
+DESCRIPTION: 
+VERSION: 0
+AUTHOR: Erick Dransch & Thematic
+AUTHOR URI: erickdransch.com
+Template: thematic
+*/
+
+@import url("../thematic/style.css");
+
+/* Apply a basic layout */
+@import url('library/layouts/2c-r-fixed.css');
+
+/* Apply default theme styles and colors */
+@import url('library/styles/default.css');
+
