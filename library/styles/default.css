@@ -320,7 +320,7 @@ a:hover {
     text-transform:uppercase;
 }
 .entry-content {
-    padding:22px 0 0 0;
+    padding:22px 0px 22px 0px;
 }
 .entry-content h1,
 .entry-content h2 {
