@@ -4,7 +4,7 @@ DESCRIPTION: Two-column 950px fixed layout with one sidebar right of content
 */
 
 body {
-    min-width:1060px;
+    min-width:1260px;
 }
 #header {
     position:relative;
